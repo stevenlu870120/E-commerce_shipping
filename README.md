@@ -25,13 +25,6 @@ It was a final group project for "Big Data Machine Learning" course at JHU.
 
 
 
-## Screenshots
-![Example screenshot1](/Users/stevenlu/Desktop/grad school/spring/Machine Learning/screen_shot_1.png)
-![Example screenshot2](/Users/stevenlu/Desktop/grad school/spring/Machine Learning/screen_shot_2.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-
 ## Project Status
 Project is: _complete_ 
 
